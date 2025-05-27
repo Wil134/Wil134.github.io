@@ -8,7 +8,7 @@ D -- No --> C
 D -- Yes --> E([Is the number lower or higher?])
 E -- Lower --> C
 E -- Higher --> C
-E -- F([Correct]) --> G([End])
+E -- Correct --> F([End])
 ```
 
 ## Instructions for game
