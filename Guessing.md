@@ -7,7 +7,7 @@ C --> D([Is the input a number?])
 D -- No --> C
 D -- Yes --> E([Is the number correct?])
 E -- No --> D
-E -- Yes --> ([(Congratulations!])
+E -- Yes --> ([Congratulations!])
 F --> G([End])
 ```
 
