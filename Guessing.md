@@ -1,7 +1,7 @@
 ## Number Guessing Game
 ```mermaid
 flowchart TD;
-A([Start]) --> B([Generate Random Number])
+A([Start]) --> B([Generate Number 1-10])
 B --> C([Input Number])
 C --> D([Is the input a number?])
 D -- No --> C
