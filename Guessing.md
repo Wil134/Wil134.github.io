@@ -6,9 +6,9 @@ B --> C([Input Number])
 C --> D([Is the input a number?])
 D -- No --> C
 D -- Yes --> E([Is the number lower or higher?])
-F -- Lower --> C
-F -- Higher --> C
-F -- Correct --> G([End])
+E -- F([Lower]) --> C
+E -- G[(Higher]) --> C
+E -- H([Correct]) --> I([End])
 ```
 
 ## Instructions for game
