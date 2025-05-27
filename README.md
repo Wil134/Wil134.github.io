@@ -6,7 +6,7 @@ I **thoroughly** enjoy reading, playing video games, and playing tennis. _Though
 [_Extraordinary things_](www.youtube.com) are found here, such as:
 * Videos containing comedic value or knowledge
 * Videos that help me interpolate certain emotions and feelings
-* Videos that teach me something new  
+* Videos that teach me something new  \
 
 [_Interesting things_](www.reddit.com) happen here, such as:
 * Views expressed through the eyes of many people
