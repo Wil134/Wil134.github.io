@@ -7,6 +7,7 @@ I **thoroughly** enjoy reading, playing video games, and playing tennis. _Though
 * Videos containing comedic value or knowledge
 * Videos that help me interpolate certain emotions and feelings
 * Videos that teach me something new  
+
 [_Interesting things_](www.reddit.com) happen here, such as:
 * Views expressed through the eyes of many people
 * Knowledge and experience are passed down
